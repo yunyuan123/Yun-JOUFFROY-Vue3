@@ -1,0 +1,16 @@
+body {
+  background-color: #0e47a1;
+}
+
+.header01 {
+  background-image: url(img/bgzelda.jpg)
+}
+
+.detail-page {
+  padding-top: 100px;
+  background-image: url(img/mountain-fv.jpg)
+}
+
+.list-page {
+  padding-top: 100px;
+}
